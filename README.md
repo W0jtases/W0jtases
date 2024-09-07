@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wojtases
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning js, php, sql, html, css
+- 🌱 I’m currently learning react
 - 📫 How to reach me wjtases@gmail.com <br>
 
 <!---
