@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Wojtek
-#### 𖥔 ݁ ˖   ✦    ‧₊˚ ⋅. ݁₊ ⊹ . ݁˖ . ݁༉‧₊˚.. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁༉‧₊˚
-![𖥔 ݁ ˖   ✦    ‧₊˚ ⋅. ݁₊ ⊹ . ݁˖ . ݁༉‧₊˚.. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁༉‧₊˚])
+#### 
 <img src="https://github.com/W0jtases/W0jtases/blob/main/hacker.gif">
-𖥔 ݁ ˖   ✦    ‧₊˚ ⋅. ݁₊ ⊹ . ݁˖ . ݁༉‧₊˚.. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁༉‧₊˚..𖥔 ݁ ˖   ✦    ‧₊˚
 
 Skills:  REACT / JS / HTML / CSS / PHP
 
