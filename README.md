@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wojtases</p>
+- 👋 Hi, I’m Wojtases
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning js, php, sql, html, css
 - 📫 How to reach me wjtases@gmail.com <br>
