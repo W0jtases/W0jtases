@@ -2,7 +2,7 @@
 #### 
 <img src="https://github.com/W0jtases/W0jtases/blob/main/hacker.gif">
 
-Skills:  REACT / JS / HTML / CSS / PHP
+Skills: JS / HTML / CSS / PHP
 
 
 
