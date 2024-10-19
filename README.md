@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Wojtek
 #### 
-<img src="https://github.com/W0jtases/W0jtases/blob/main/hacker.gif">
+
 
 Skills: JS / HTML / CSS / PHP
 
