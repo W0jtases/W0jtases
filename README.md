@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [eksabajtpl](https://dev.eksabajt.pl)
 
-- 🌱 I’m currently learning **react, tailwindcss**
+- 🌱 I’m currently learning **react, tailwindcss, linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
