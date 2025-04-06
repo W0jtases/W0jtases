@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [eksabajt.pl](https://dev.eksabajt.pl)
+- I’m currently working on [eksabajt.pl](https://dev.eksabajt.pl)
 
-- 🌱 I’m currently learning **react, tailwindcss, linux**
+- I’m currently learning **react, tailwindcss, linux**
 
 <p align="left">
 </p>
